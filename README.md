@@ -259,13 +259,13 @@
 
 <section id="contact">
   <h2>Contact</h2>
-  <p>Email: <a href="pavithra.cs24@kascsathy.ac.in">pavithral@kascsahy.ac.in</a></p>
+  <p>Email: <a href="pavithra.cs24@kascsathy.ac.in">pavithra@kascsahy.ac.in</a></p>
   <p>Phone: +91-7806946922</p>
-  <p>Location: A1hani, Gobi, India</p>
+  <p>Location: northpet,sathy, India</p>
   <div style="margin-top: 1rem;">
 	<a href="https://linkedin.com/in/pavithra" target="_blank">LinkedIn</a> |
 	<a href="https://github.com/pavithra" target="_blank">GitHub</a> |
-	<a href="https://instagram.com/lpavithra-2007" target="_blank">Instagram</a>
+	<a href="https://instagram.com/pavithra-2007" target="_blank">Instagram</a>
   </div>
 </section>
 
@@ -290,7 +290,7 @@
 <section id="experience">
   <h2>Experience</h2>
   <ul>
-	<li><b>student</b>KASC - Sathy (2023 - Present)<br>Department of CA and IT</li>
+	<li><b>student</b>KASC - Sathy (2023 - Present)<br>Department of Cs </li>
 	<li><b>Faculty</b> – CCI Computer Center (2003 - 2007)<br>Handled Ms-Office, Java, C,C++, Oracle, VB</li>
 	<li><b>student</b> MPNMJ Engg. College (2011 - 2013)<br>Department of MCA </li>
 	<li><b>Computer Teacher</b> VVMHSS (2016 - 2023)<br>Worked on Under Bharathidhasan University</li>
